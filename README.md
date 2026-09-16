@@ -1,7 +1,6 @@
 # Ojas Mishra
 
-Computer Science student focused on Artificial Intelligence, Machine Learning, and Software Engineering.
-
+Computer Science student focused on Artificial Intelligence, Machine Learning, and software engineering.
 I build practical software and AI systems, with current interests in agentic AI, large language models, reinforcement learning, multi-agent systems, information retrieval, and backend engineering.
 
 ## Areas of Interest
